@@ -1,0 +1,6 @@
+{
+  "name": "DG Domain Core",
+  "description": "Domain registry, naming rules policy, and application-level resolution engine for Deep Group's .dg prototype namespace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
